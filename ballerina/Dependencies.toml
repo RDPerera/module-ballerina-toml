@@ -118,7 +118,7 @@ modules = [
 [[package]]
 org = "ballerina"
 name = "toml"
-version = "0.5.1"
+version = "0.7.0"
 dependencies = [
 	{org = "ballerina", name = "file"},
 	{org = "ballerina", name = "io"},
